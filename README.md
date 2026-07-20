@@ -204,18 +204,6 @@ FRONTEND_URL=http://localhost:5173
 
 ---
 
-# 📸 Screenshots
-
-> Add screenshots here for:
->
-> - Login Page
-> - Dashboard
-> - Repository Selection
-> - Scan Progress
-> - Vulnerability Reports
-> - Analytics
-
----
 
 # 👨‍💻 Author
 
@@ -225,4 +213,4 @@ FRONTEND_URL=http://localhost:5173
 
 ---
 
-## ⭐ If you found this project interesting, consider giving it a star!
+## If you found this project useful, consider giving it a ⭐!
